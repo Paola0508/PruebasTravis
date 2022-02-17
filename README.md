@@ -1,7 +1,7 @@
 
 
 ```shell
-docker image build -t ubuntu:dbot .
+docker image build -t windows:dbot .
 ```
 
 Create app
